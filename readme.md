@@ -1,3 +1,10 @@
+
+<img width="1512" alt="Screen Shot 2022-10-20 at 10 18 34 PM" src="https://user-images.githubusercontent.com/112591915/197118057-32218068-0910-4bd8-8982-06f292252919.png">
+
+
+
+
+
 # Work Day Scheduler 
 
 * When I open the planner THEN, I am displayed with current day 
