@@ -16,9 +16,6 @@ $(document).on('click', '.saveBtn' , saveNote )
    var note = $('#textArea-' + time).val()
    localStorage.setItem(time , note )
    var persistData = localStorage.getItem(time , note)
-   console.log(persistData)
-   
-  
  }
 
 function stylingTime(){ 
