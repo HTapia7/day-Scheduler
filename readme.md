@@ -18,3 +18,10 @@ https://htapia7.github.io/day-Scheduler/
 * WHEN I click the save button for that time block THEN the text for that event is saved in local storage
 
 * WHEN I refresh the page THEN the saved events persist
+
+
+## Technologies 
+
+* HTML
+* CSS
+* JavaScript
